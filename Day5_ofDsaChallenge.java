@@ -13,7 +13,7 @@ class Solution {
 
 }
 
-public class Main {
+public class Day5_ofDsaChallenge {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
 

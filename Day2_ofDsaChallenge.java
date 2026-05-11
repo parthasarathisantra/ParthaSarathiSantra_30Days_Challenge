@@ -10,7 +10,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Day2_ofDsaChallenge {
 
     public static void reversePrint(Node head) {
         if (head == null) return;
